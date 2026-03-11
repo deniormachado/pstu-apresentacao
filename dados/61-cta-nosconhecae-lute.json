@@ -1,0 +1,21 @@
+{
+  "tipo": "capa",
+  "modulo": "Junte-se ao PSTU",
+  "tema": "profundo",
+  "eh_secao": true,
+  "rotulo_secao": "Junte-se",
+  "pre_titulo": "31 anos na luta — venha fazer parte",
+  "titulo": "Nos<br/>conheça<br/>e lute",
+  "subtitulo": "Só um governo socialista dos trabalhadores e do povo pobre, sem capitalistas, pode abrir um novo caminho para o Brasil. <strong>Esse governo só virá com a mobilização consciente e organizada da classe trabalhadora.</strong>",
+  "texto": "",
+  "imagem_url": "",
+  "titulo_estilo": "font-size:clamp(3.5rem,12vw,9rem);",
+  "logos": [],
+  "palavra_de_ordem": "Venha para o PSTU · facaparte.pstu.org.br",
+  "links": [
+    "pstu.org.br",
+    "opiniaosocialista.com.br",
+    "litci.org/pt/"
+  ],
+  "tem_linha_acento": true
+}

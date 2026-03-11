@@ -1,0 +1,55 @@
+{
+  "tipo": "comparativo",
+  "modulo": "Módulo 2 · Por que Classistas?",
+  "tema": "escuro",
+  "eh_secao": false,
+  "rotulo_secao": "",
+  "pre_titulo": "",
+  "titulo": "",
+  "subtitulo": "",
+  "texto": "",
+  "imagem_url": "",
+  "coluna_esquerda": {
+    "titulo": "O capitalismo<br/>divide para<br/>reinar",
+    "items": [
+      {
+        "texto": "<strong>Racismo estrutural:</strong> Trabalhadores negros recebem em média 40% menos que brancos no mesmo cargo (IBGE 2023)",
+        "estilo": ""
+      },
+      {
+        "texto": "<strong>Machismo e trabalho feminino:</strong> Mulheres ganham 78% do salário dos homens e ainda fazem trabalho doméstico não pago",
+        "estilo": ""
+      },
+      {
+        "texto": "<strong>LGBTfobia:</strong> Trans têm expectativa de vida de 35 anos no Brasil — violência estrutural e precariedade",
+        "estilo": ""
+      },
+      {
+        "texto": "O patrão se beneficia: paga menos para grupos oprimidos, aumentando a mais-valia. Divide os trabalhadores para que não se unam",
+        "estilo": ""
+      }
+    ]
+  },
+  "coluna_direita": {
+    "titulo": "Nossa<br/>posição",
+    "items": [
+      {
+        "texto": "Lutamos contra toda forma de opressão DENTRO da luta de classes — não são questões separadas",
+        "estilo": ""
+      },
+      {
+        "texto": "Não pode ser livre quem oprime outro — a libertação é coletiva",
+        "estilo": ""
+      },
+      {
+        "texto": "O Estado deveria fornecer escola, hospital, creche, lavanderia e restaurantes públicos — não jogar o peso sobre as mulheres",
+        "estilo": ""
+      },
+      {
+        "texto": "✗ Diferente do feminismo e antirracismo liberal que não questionam o sistema capitalista",
+        "estilo": "border-color:var(--gold);color:var(--gold);"
+      }
+    ]
+  },
+  "tem_linha_acento": false
+}

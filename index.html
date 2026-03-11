@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>PSTU — Formação Política · Apresentação</title>
+
+<!-- ╔══════════════════════════════════════════╗
+     ║  PSTU — Site de Apresentação Modular     ║
+     ║                                          ║
+     ║  Para editar o CONTEÚDO dos slides,      ║
+     ║  edite os arquivos .json na pasta dados/ ║
+     ║                                          ║
+     ║  NÃO é necessário alterar este arquivo   ║
+     ║  nem o estilo.css nem o motor.js         ║
+     ║                                          ║
+     ║  Leia COMO-EDITAR.md para instruções.    ║
+     ╚══════════════════════════════════════════╝ -->
+
+<!-- Fontes do Google -->
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Syne:wght@400;600;700;800&family=JetBrains+Mono:wght@400;500&family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+
+<!-- Estilos visuais (não precisa editar) -->
+<link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+
+<!-- Badge do módulo atual (canto superior esquerdo) -->
+<div id="module-badge" class="hidden">
+  <span class="badge-dot"></span>
+  <span id="badge-text"><!-- Preenchido automaticamente pelo motor.js --></span>
+</div>
+
+<!-- Menu de navegação por módulos (canto superior direito) -->
+<div id="module-menu">
+  <button id="menu-btn">☰ Módulos</button>
+</div>
+<div id="module-drawer">
+  <!-- Links para cada módulo — gerados automaticamente pelo motor.js -->
+</div>
+
+<!-- Barra de abas no topo (uma por slide) -->
+<div id="tabs"><!-- Gerado automaticamente --></div>
+
+<!-- Container principal dos slides -->
+<div id="deck">
+  <!-- Cada slide é injetado aqui pelo motor.js a partir dos arquivos JSON -->
+</div>
+
+<!-- Setas de navegação (desktop) -->
+<button id="nav-prev" aria-label="Anterior">&#8592;</button>
+<button id="nav-next" aria-label="Próximo">&#8594;</button>
+
+<!-- Barra de progresso (embaixo) -->
+<div id="progress"></div>
+
+<!-- Contador de slides (canto inferior direito) -->
+<div id="counter"></div>
+
+<!-- Dica inicial de navegação -->
+<div id="hint">← → setas · swipe · espaço</div>
+
+<!-- Tela de carregamento -->
+<div id="loading">
+  <div class="loading-spinner"></div>
+  <div class="loading-text">Carregando apresentação...</div>
+</div>
+
+<!-- Motor de renderização (não precisa editar) -->
+<script src="motor.js"></script>
+
+</body>
+</html>

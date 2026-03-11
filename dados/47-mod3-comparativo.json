@@ -1,0 +1,55 @@
+{
+  "tipo": "comparativo",
+  "modulo": "Módulo 3 · Por que Revolucionários?",
+  "tema": "escuro",
+  "eh_secao": false,
+  "rotulo_secao": "",
+  "pre_titulo": "",
+  "titulo": "",
+  "subtitulo": "",
+  "texto": "",
+  "imagem_url": "",
+  "coluna_esquerda": {
+    "titulo": "A ilusão da<br/>\"democracia\"<br/>burguesa",
+    "items": [
+      {
+        "texto": "\"Todo cidadão tem um voto igual\"",
+        "estilo": ""
+      },
+      {
+        "texto": "\"Qualquer um pode se candidatar\"",
+        "estilo": ""
+      },
+      {
+        "texto": "\"A maioria decide\"",
+        "estilo": ""
+      },
+      {
+        "texto": "\"A imprensa é livre\"",
+        "estilo": ""
+      }
+    ]
+  },
+  "coluna_direita": {
+    "titulo": "A realidade<br/>da ordem<br/>burguesa",
+    "items": [
+      {
+        "texto": "Uma campanha presidencial custa R$300 mi — quem financia decide a política",
+        "estilo": ""
+      },
+      {
+        "texto": "Os grandes jornais (Globo, Folha, SBT) pertencem a famílias bilionárias",
+        "estilo": ""
+      },
+      {
+        "texto": "Quando os trabalhadores elegem alguém que ameaça o capital, vem o golpe (Brasil 2016, Chile 1973)",
+        "estilo": ""
+      },
+      {
+        "texto": "Participamos das eleições para agitar o programa — não para administrar o capitalismo",
+        "estilo": "border-color:var(--gold);color:var(--gold);"
+      }
+    ]
+  },
+  "tem_linha_acento": false
+}

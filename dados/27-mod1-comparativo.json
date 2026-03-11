@@ -1,0 +1,47 @@
+{
+  "tipo": "comparativo",
+  "modulo": "Módulo 1 · Por que Socialistas?",
+  "tema": "escuro",
+  "eh_secao": false,
+  "rotulo_secao": "",
+  "pre_titulo": "",
+  "titulo": "",
+  "subtitulo": "",
+  "texto": "",
+  "imagem_url": "",
+  "coluna_esquerda": {
+    "titulo": "Contradição 1:<br/>Produção ×<br/>Distribuição",
+    "items": [
+      {
+        "texto": "Há tecnologia e riqueza para alimentar, morar e cuidar de toda a humanidade",
+        "estilo": ""
+      },
+      {
+        "texto": "Mas a anarquia da produção capitalista impede isso: o que vale é o lucro, não a necessidade humana",
+        "estilo": ""
+      },
+      {
+        "texto": "Resultado: destruição ambiental, alimentos jogados fora enquanto 733 milhões passam fome",
+        "estilo": ""
+      }
+    ]
+  },
+  "coluna_direita": {
+    "titulo": "Contradição 2:<br/>Mundial ×<br/>Fronteiras",
+    "items": [
+      {
+        "texto": "A produção é globalizada — cadeias produtivas que cruzam o mundo inteiro",
+        "estilo": ""
+      },
+      {
+        "texto": "Mas o capitalismo reforça fronteiras, guerras e nacionalismos para dividir os trabalhadores",
+        "estilo": ""
+      },
+      {
+        "texto": "Gaza, Ucrânia, tensão EUA-China: o capitalismo em crise gera guerras. A única saída é a superação do capitalismo",
+        "estilo": ""
+      }
+    ]
+  },
+  "tem_linha_acento": false
+}

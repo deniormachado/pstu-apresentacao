@@ -1,0 +1,42 @@
+{
+  "tipo": "dividido",
+  "modulo": "Módulo 3 · Por que Revolucionários?",
+  "tema": "escuro",
+  "eh_secao": false,
+  "rotulo_secao": "",
+  "pre_titulo": "",
+  "titulo": "Por que as<br/>reformas<br/><em>não bastam</em>",
+  "subtitulo": "",
+  "texto": "As reformas são importantes — lutamos por elas! Mas têm limites estruturais. O que o capital \"concede\" hoje, tira amanhã quando a correlação de forças muda.",
+  "imagem_url": "",
+  "diferenciais": [
+    "CLT criada em 1943 — Reforma Trabalhista de 2017 destruiu direitos em um único projeto de lei"
+  ],
+  "items_direita": [
+    {
+      "titulo": "O que significa revolução socialista",
+      "texto": "<strong>O que significa revolução socialista</strong>Não é um dia de violência — é um processo de ascenso da luta de massas. Envolve greves gerais, ocupações, manifestações, conselhos de trabalhadores, milícias operárias.",
+      "nota": "",
+      "estilo": ""
+    },
+    {
+      "titulo": "Por que a burguesia não entrega o poder",
+      "texto": "<strong>Por que a burguesia não entrega o poder</strong>A burguesia nunca entregará o poder pacificamente — resistirá com golpes e repressão: 1964 no Brasil, 1973 no Chile, 2016 novamente. Por isso precisamos do poder armado dos trabalhadores.",
+      "nota": "",
+      "estilo": ""
+    },
+    {
+      "titulo": "O objetivo",
+      "texto": "<strong>O objetivo</strong>Destruir o Estado burguês e construir um governo dos trabalhadores — baseado nos organismos de base, não nas instituições do capital.",
+      "nota": "",
+      "estilo": ""
+    },
+    {
+      "titulo": "Lição do PT",
+      "texto": "<strong>Lição do PT</strong>O PT governou o Brasil por 13 anos. O capitalismo foi superado? Não. Os direitos foram permanentes? Não. A conciliação de classes fracassou.",
+      "nota": "",
+      "estilo": ""
+    }
+  ],
+  "tem_linha_acento": false
+}

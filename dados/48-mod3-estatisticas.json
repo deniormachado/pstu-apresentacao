@@ -1,0 +1,39 @@
+{
+  "tipo": "estatisticas",
+  "modulo": "Módulo 3 · Por que Revolucionários?",
+  "tema": "escuro",
+  "eh_secao": false,
+  "rotulo_secao": "",
+  "pre_titulo": "",
+  "titulo": "",
+  "subtitulo": "",
+  "texto": "",
+  "imagem_url": "",
+  "estatisticas": [
+    {
+      "numero": "83%",
+      "descricao": "dos parlamentares federais são empresários, proprietários rurais ou ligados ao capital financeiro",
+      "fonte": "DIAP, 2023",
+      "cor": ""
+    },
+    {
+      "numero": "R$3,2bi",
+      "descricao": "total gasto nas eleições de 2022 — financiamento privado domina a política",
+      "fonte": "TSE, 2022",
+      "cor": ""
+    },
+    {
+      "numero": "10",
+      "descricao": "famílias controlam os principais grupos de comunicação do Brasil — quem forma a opinião pública",
+      "fonte": "FNDC, 2023",
+      "cor": ""
+    },
+    {
+      "numero": "0",
+      "descricao": "parlamentares do STF são eleitos pelo povo — a \"neutralidade\" da Justiça é uma ficção",
+      "fonte": "",
+      "cor": ""
+    }
+  ],
+  "tem_linha_acento": false
+}

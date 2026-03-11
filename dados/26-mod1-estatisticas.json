@@ -1,0 +1,39 @@
+{
+  "tipo": "estatisticas",
+  "modulo": "Módulo 1 · Por que Socialistas?",
+  "tema": "escuro",
+  "eh_secao": false,
+  "rotulo_secao": "",
+  "pre_titulo": "",
+  "titulo": "",
+  "subtitulo": "",
+  "texto": "",
+  "imagem_url": "",
+  "estatisticas": [
+    {
+      "numero": "1%",
+      "descricao": "dos mais ricos concentra mais riqueza que os 95% mais pobres do mundo",
+      "fonte": "Oxfam, 2024",
+      "cor": ""
+    },
+    {
+      "numero": "733mi",
+      "descricao": "pessoas passam fome no planeta enquanto há comida para alimentar o dobro da humanidade",
+      "fonte": "FAO, 2023",
+      "cor": ""
+    },
+    {
+      "numero": "R$6,8tri",
+      "descricao": "é a dívida pública brasileira — paga com dinheiro dos trabalhadores para os banqueiros",
+      "fonte": "STN, 2024",
+      "cor": ""
+    },
+    {
+      "numero": "33%",
+      "descricao": "dos jovens brasileiros de 18-29 anos não têm emprego formal nem estão estudando",
+      "fonte": "IBGE, 2024",
+      "cor": ""
+    }
+  ],
+  "tem_linha_acento": false
+}

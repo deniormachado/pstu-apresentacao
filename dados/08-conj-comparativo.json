@@ -1,0 +1,63 @@
+{
+  "tipo": "comparativo",
+  "modulo": "Apresentação · Conjuntura",
+  "tema": "escuro",
+  "eh_secao": false,
+  "rotulo_secao": "",
+  "pre_titulo": "",
+  "titulo": "",
+  "subtitulo": "",
+  "texto": "",
+  "imagem_url": "",
+  "coluna_esquerda": {
+    "titulo": "Extrema-direita<br/>bolsonarista",
+    "items": [
+      {
+        "texto": "Se apresenta como \"antissistema\" — mas é a parte mais podre do capitalismo, dominado pelos bilionários",
+        "estilo": ""
+      },
+      {
+        "texto": "Defendeu os EUA contra o Brasil na questão das tarifas de Trump",
+        "estilo": ""
+      },
+      {
+        "texto": "Tentou um golpe para acabar com as liberdades que a classe trabalhadora precisa para se defender",
+        "estilo": ""
+      },
+      {
+        "texto": "Milei na Argentina: modelo real da ultradireita — destruição de direitos, entrega ao FMI",
+        "estilo": ""
+      },
+      {
+        "texto": "Nenhuma anistia! Julgamento dos golpistas!",
+        "estilo": "border-color:var(--gold);color:var(--gold);"
+      }
+    ]
+  },
+  "coluna_direita": {
+    "titulo": "Governo Lula<br/>(PT / PSOL)",
+    "items": [
+      {
+        "texto": "Não rompe com o sistema: mantém o arcabouço fiscal e a agiotagem escandalosa do pagamento da dívida",
+        "estilo": ""
+      },
+      {
+        "texto": "Preserva os lucros dos bilionários, concede subsídios às multinacionais, negocia terras raras com Trump",
+        "estilo": ""
+      },
+      {
+        "texto": "Rifa pautas de mulheres, negros e LGBTI em troca de governabilidade com centrão",
+        "estilo": ""
+      },
+      {
+        "texto": "A estratégia do \"mal menor\" já fracassou. Décadas de conciliação não resolveram os problemas do país",
+        "estilo": ""
+      },
+      {
+        "texto": "Oposição de esquerda independente — sem apoiar o PT",
+        "estilo": "border-color:var(--gold);color:var(--gold);"
+      }
+    ]
+  },
+  "tem_linha_acento": false
+}

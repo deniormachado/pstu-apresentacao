@@ -1,0 +1,33 @@
+{
+  "tipo": "cards",
+  "modulo": "Candidaturas 2026",
+  "tema": "escuro",
+  "eh_secao": false,
+  "rotulo_secao": "",
+  "pre_titulo": "",
+  "titulo": "",
+  "subtitulo": "",
+  "texto": "",
+  "imagem_url": "",
+  "cards": [
+    {
+      "nome": "Zé Maria",
+      "cargo": "Presidente Nacional · Ex-candidato à Presidência",
+      "texto": "Ex-metalúrgico do ABC. Presidente do PSTU desde 1998. Candidato à presidência em 1998, 2002, 2010 e 2014. Preso junto a Lula na greve histórica de 1980. Símbolo da independência de classe do partido.",
+      "foto_url": "https://pstu.org.br/wp-content/uploads/2018/ze-maria-pstu-candidato.jpg"
+    },
+    {
+      "nome": "Vera Lúcia",
+      "cargo": "Candidata ao Governo de SP · 2026",
+      "texto": "Operária, negra, nordestina. Foi candidata do PSTU à presidência em 2018 e 2022 — primeira mulher negra a disputar a presidência por um partido de esquerda. Em 2026, candidata ao governo de São Paulo.",
+      "foto_url": "https://pstu.org.br/wp-content/uploads/2022/07/vera-lucia-pstu-presidenta.jpg"
+    },
+    {
+      "nome": "Hertz Dias",
+      "cargo": "Pré-candidato à Presidência · 2026",
+      "texto": "Rapper do grupo Gíria Vermelha. Fundador do Quilombo Urbano no Maranhão — une hip-hop, cultura e luta contra o racismo. Professor de História da rede pública. Ativista do movimento negro.",
+      "foto_url": "https://opiniaosocialista.com.br/wp-content/uploads/2024/11/hertz-dias-pstu-2026.jpg"
+    }
+  ],
+  "tem_linha_acento": false
+}

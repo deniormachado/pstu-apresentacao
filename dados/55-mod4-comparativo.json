@@ -1,0 +1,63 @@
+{
+  "tipo": "comparativo",
+  "modulo": "Módulo 4 · Partido Revolucionário",
+  "tema": "escuro",
+  "eh_secao": false,
+  "rotulo_secao": "",
+  "pre_titulo": "",
+  "titulo": "",
+  "subtitulo": "",
+  "texto": "",
+  "imagem_url": "",
+  "coluna_esquerda": {
+    "titulo": "PSTU<br/>Partido<br/>revolucionário",
+    "items": [
+      {
+        "texto": "Independência de classe total — não apoia governos burgueses",
+        "estilo": ""
+      },
+      {
+        "texto": "Programa de ruptura com o capitalismo",
+        "estilo": ""
+      },
+      {
+        "texto": "Centralismo democrático rigoroso",
+        "estilo": ""
+      },
+      {
+        "texto": "Formação política como prioridade",
+        "estilo": ""
+      },
+      {
+        "texto": "Implantação nas fábricas e movimentos",
+        "estilo": ""
+      }
+    ]
+  },
+  "coluna_direita": {
+    "titulo": "PT / PSOL<br/>Partidos<br/>reformistas",
+    "items": [
+      {
+        "texto": "Coalizão com setores da burguesia",
+        "estilo": ""
+      },
+      {
+        "texto": "Programa de reforma dentro do capitalismo",
+        "estilo": ""
+      },
+      {
+        "texto": "Democracia interna limitada por aparatos e caciques",
+        "estilo": ""
+      },
+      {
+        "texto": "Eleitoralismo — prioridade nas candidaturas",
+        "estilo": ""
+      },
+      {
+        "texto": "Burocratização e dependência sindical",
+        "estilo": ""
+      }
+    ]
+  },
+  "tem_linha_acento": false
+}

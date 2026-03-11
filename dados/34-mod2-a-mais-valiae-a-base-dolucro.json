@@ -1,0 +1,33 @@
+{
+  "tipo": "dividido",
+  "modulo": "Módulo 2 · Por que Classistas?",
+  "tema": "escuro",
+  "eh_secao": false,
+  "rotulo_secao": "",
+  "pre_titulo": "",
+  "titulo": "A mais-valia<br/>é a base do<br/><em>lucro</em>",
+  "subtitulo": "",
+  "texto": "O patrão não compra o produto do trabalho, mas a <strong>força de trabalho</strong> do trabalhador por um determinado tempo. Durante esse tempo, tudo que o trabalhador produzir pertence ao patrão. O SALÁRIO APENAS COBRE O CUSTO DA FORÇA DE TRABALHO.",
+  "imagem_url": "",
+  "items_direita": [
+    {
+      "titulo": "Guararapes 2021",
+      "texto": "<strong>Guararapes 2021</strong>11.177 operárias da produção. Numa jornada de 8h, 2h44min para pagar o próprio salário — as 5h16min restantes: trabalho GRATUITO para a família Rocha",
+      "nota": "",
+      "estilo": ""
+    },
+    {
+      "titulo": "Lucro da família Rocha",
+      "texto": "<strong>Lucro da família Rocha</strong>R$458 milhões em 2021. Cada um dos 4 donos: R$115 milhões. Uma costureira levaria 1.040 anos para ganhar isso.",
+      "nota": "",
+      "estilo": ""
+    },
+    {
+      "titulo": "O patrão é necessário?",
+      "texto": "<strong>O patrão é necessário?</strong>Para a fábrica funcionar são necessários: matéria-prima (produzida por trabalhadores), máquinas (produzidas por trabalhadores), gerentes (trabalhadores assalariados). O PATRÃO NÃO PRODUZ NADA — e fica com tudo.",
+      "nota": "",
+      "estilo": ""
+    }
+  ],
+  "tem_linha_acento": false
+}

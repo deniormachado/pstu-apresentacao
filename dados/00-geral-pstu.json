@@ -1,0 +1,17 @@
+{
+  "tipo": "capa",
+  "modulo": "",
+  "tema": "escuro",
+  "eh_secao": true,
+  "rotulo_secao": "Início",
+  "pre_titulo": "Formação Política · PSTU · LIT-QI",
+  "titulo": "PSTU",
+  "subtitulo": "Partido Socialista dos Trabalhadores Unificado<br/>A Alternativa Socialista e Revolucionária para o Brasil e o Mundo",
+  "texto": "",
+  "imagem_url": "",
+  "logos": [
+    "https://pstu.org.br/wp-content/themes/pstu/assets/images/logo-pstu.png",
+    "https://litci.org/wp-content/uploads/2019/05/LIT-QI-logo.png"
+  ],
+  "tem_linha_acento": true
+}

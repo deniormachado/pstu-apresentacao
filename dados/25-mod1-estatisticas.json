@@ -1,0 +1,39 @@
+{
+  "tipo": "estatisticas",
+  "modulo": "Módulo 1 · Por que Socialistas?",
+  "tema": "escuro",
+  "eh_secao": false,
+  "rotulo_secao": "",
+  "pre_titulo": "",
+  "titulo": "",
+  "subtitulo": "",
+  "texto": "",
+  "imagem_url": "",
+  "estatisticas": [
+    {
+      "numero": "R$2.000",
+      "descricao": "valor produzido por cada costureira/dia na Guararapes (40 camisas × R$50)",
+      "fonte": "",
+      "cor": ""
+    },
+    {
+      "numero": "R$200",
+      "descricao": "salário pago pelo patrão — apenas 10% do que a trabalhadora produziu",
+      "fonte": "",
+      "cor": ""
+    },
+    {
+      "numero": "R$600",
+      "descricao": "custo de matérias-primas e máquinas — apenas 30% do valor total",
+      "fonte": "",
+      "cor": ""
+    },
+    {
+      "numero": "R$1.200",
+      "descricao": "MAIS-VALIA — trabalho NÃO pago, roubado pelo patrão (60% do valor total produzido)",
+      "fonte": "",
+      "cor": "#ff6b6b"
+    }
+  ],
+  "tem_linha_acento": false
+}

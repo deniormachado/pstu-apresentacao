@@ -1,0 +1,39 @@
+{
+  "tipo": "estatisticas",
+  "modulo": "Apresentação · Conjuntura",
+  "tema": "escuro",
+  "eh_secao": false,
+  "rotulo_secao": "",
+  "pre_titulo": "",
+  "titulo": "",
+  "subtitulo": "",
+  "texto": "",
+  "imagem_url": "",
+  "estatisticas": [
+    {
+      "numero": "54mi",
+      "descricao": "brasileiros em insegurança alimentar — passando fome ou ameaçados dela",
+      "fonte": "Rede PENSSAN, 2023",
+      "cor": ""
+    },
+    {
+      "numero": "R$1,5bi",
+      "descricao": "gastos em campanha nas eleições de 2022 — quem financia, decide",
+      "fonte": "TSE, 2022",
+      "cor": ""
+    },
+    {
+      "numero": "13,5%",
+      "descricao": "do PIB vai para juros da dívida pública — enquanto saúde e educação são cortados",
+      "fonte": "BCB, 2024",
+      "cor": ""
+    },
+    {
+      "numero": "R$427bi",
+      "descricao": "em dividendos distribuídos pela Petrobras em 5 anos — grande parte a acionistas estrangeiros",
+      "fonte": "Manifesto PSTU, 2026",
+      "cor": ""
+    }
+  ],
+  "tem_linha_acento": false
+}

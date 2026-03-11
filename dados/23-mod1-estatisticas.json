@@ -1,0 +1,39 @@
+{
+  "tipo": "estatisticas",
+  "modulo": "Módulo 1 · Por que Socialistas?",
+  "tema": "escuro",
+  "eh_secao": false,
+  "rotulo_secao": "",
+  "pre_titulo": "",
+  "titulo": "",
+  "subtitulo": "",
+  "texto": "",
+  "imagem_url": "",
+  "estatisticas": [
+    {
+      "numero": "~200mil",
+      "descricao": "anos de Comunismo Primitivo — sem classes, sem exploração, organização comunitária",
+      "fonte": "",
+      "cor": ""
+    },
+    {
+      "numero": "~2.500",
+      "descricao": "anos de Escravismo — luta de classes: insurreições, o exemplo de Spartacus",
+      "fonte": "",
+      "cor": ""
+    },
+    {
+      "numero": "~1.000",
+      "descricao": "anos de Feudalismo — parte da produção ficava com a Igreja (dízimo), servos presos à terra",
+      "fonte": "",
+      "cor": ""
+    },
+    {
+      "numero": "~500",
+      "descricao": "anos de Capitalismo — o mais CURTO da história. Não é eterno — pode e deve ser superado",
+      "fonte": "",
+      "cor": ""
+    }
+  ],
+  "tem_linha_acento": false
+}

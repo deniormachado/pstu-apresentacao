@@ -1,0 +1,39 @@
+{
+  "tipo": "dividido",
+  "modulo": "Histórico do PSTU",
+  "tema": "escuro",
+  "eh_secao": false,
+  "rotulo_secao": "",
+  "pre_titulo": "",
+  "titulo": "A revolução será<br/><em>negra, mulher,<br/>LGBTI<br/>e indígena</em>",
+  "subtitulo": "",
+  "texto": "Anos 2010: o PSTU estruturou frentes específicas ligando a luta contra as opressões à luta de classes — porque a libertação é coletiva ou não é.",
+  "imagem_url": "",
+  "items_direita": [
+    {
+      "titulo": "QRC — Quilombo Raça e Classe",
+      "texto": "<strong>QRC — Quilombo Raça e Classe</strong>Luta contra o genocídio da juventude negra e o racismo estrutural. A libertação negra só é possível com a destruição do capitalismo. <em>✗ Diferente do antirracismo liberal que não questiona o sistema</em>",
+      "nota": "✗ Diferente do antirracismo liberal que não questiona o sistema",
+      "estilo": ""
+    },
+    {
+      "titulo": "MML — Mulheres em Luta / Olga Benário",
+      "texto": "<strong>MML — Mulheres em Luta / Olga Benário</strong>Contra o feminicídio, pelo aborto legal. Feminismo classista — crítica ao feminismo liberal que não enfrenta a exploração capitalista.",
+      "nota": "",
+      "estilo": ""
+    },
+    {
+      "titulo": "Rebeldia / Liberta",
+      "texto": "<strong>Rebeldia / Liberta</strong>Ocupações de escolas e universidades. Luta pelo futuro da juventude trabalhadora.",
+      "nota": "",
+      "estilo": ""
+    },
+    {
+      "titulo": "LGBTI+",
+      "texto": "<strong>LGBTI+</strong>Combate à LGBTfobia como instrumento de divisão da classe operária. Opressão estrutural ao capitalismo — só acaba com ele.",
+      "nota": "",
+      "estilo": ""
+    }
+  ],
+  "tem_linha_acento": false
+}

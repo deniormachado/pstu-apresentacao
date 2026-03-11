@@ -1,0 +1,35 @@
+{
+  "tipo": "timeline",
+  "modulo": "Histórico do PSTU",
+  "tema": "escuro",
+  "eh_secao": false,
+  "rotulo_secao": "",
+  "pre_titulo": "",
+  "titulo": "Do PT ao <em>PSTU</em>",
+  "subtitulo": "",
+  "texto": "",
+  "imagem_url": "",
+  "itens_timeline": [
+    {
+      "ano": "1980",
+      "texto": "Greve dos metalúrgicos do ABC — Zé Maria e Lula presos juntos. A Convergência Socialista cofunda o PT, sendo responsável por 1/5 das 100 mil filiações iniciais"
+    },
+    {
+      "ano": "1980",
+      "texto": "1ª Conferência de Mulheres da CS — feminismo classista desde a origem"
+    },
+    {
+      "ano": "1992",
+      "texto": "Expulsão do PT: a CS defendeu o \"Fora Collor!\" quando a direção petista ainda relutava. Mais de 730 militantes reagem e criam o Movimento Pró-PSTU"
+    },
+    {
+      "ano": "5/jun/94",
+      "texto": "<strong>Fundação do PSTU</strong> — independência de classe, oposição ao PT e a qualquer governo que governe com os patrões"
+    },
+    {
+      "ano": "1995",
+      "texto": "Greve dos petroleiros — PSTU na linha de frente contra FHC e a privatização da Petrobras"
+    }
+  ],
+  "tem_linha_acento": false
+}

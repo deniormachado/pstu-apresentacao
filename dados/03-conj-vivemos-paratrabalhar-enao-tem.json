@@ -1,0 +1,34 @@
+{
+  "tipo": "dividido",
+  "modulo": "Apresentação · Conjuntura",
+  "tema": "escuro",
+  "eh_secao": false,
+  "rotulo_secao": "",
+  "pre_titulo": "",
+  "titulo": "Vivemos para<br/><em>trabalhar</em> e<br/>não temos<br/>tempo de viver",
+  "subtitulo": "",
+  "texto": "A escala 6×1 é a expressão cotidiana da exploração capitalista: adoecemos, não vemos a família, não temos lazer. O povo não aguenta trabalhar tanto para receber tão pouco.",
+  "imagem_url": "",
+  "palavra_de_ordem": "Fim da escala 6×1 sem redução de salário e sem demissões!",
+  "items_direita": [
+    {
+      "titulo": "O que o governo e o centrão propõem",
+      "texto": "<strong>O que o governo e o centrão propõem</strong>Aproximando-se as eleições, dizem apoiar o fim da 6×1. Mas querem fazer isso reduzindo salário ou aumentando a jornada nos demais dias. Não querem mexer nos lucros das grandes empresas. <em>✗ Isso é enganação</em>",
+      "nota": "✗ Isso é enganação",
+      "estilo": ""
+    },
+    {
+      "titulo": "O que o PSTU propõe",
+      "texto": "<strong>O que o PSTU propõe</strong>É possível e necessário acabar com a escala 6×1, reduzindo a jornada para 36 horas <strong>sem diminuir salários</strong>. Basta tirar uma ínfima parte do lucro das grandes empresas, o que também subsidia os pequenos negócios e impede demissões.",
+      "nota": "",
+      "estilo": ""
+    },
+    {
+      "titulo": "Também defendemos",
+      "texto": "<strong>Também defendemos</strong>Aumento geral dos salários rumo ao mínimo do DIEESE (R$7.200). Revogação das reformas Trabalhista e Previdenciária de Temer. Não à \"pejotização\" no STF! Direitos trabalhistas para trabalhadores de aplicativos.",
+      "nota": "",
+      "estilo": ""
+    }
+  ],
+  "tem_linha_acento": false
+}

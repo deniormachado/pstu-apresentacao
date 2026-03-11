@@ -1,0 +1,34 @@
+{
+  "tipo": "dividido",
+  "modulo": "Apresentação · Conjuntura",
+  "tema": "escuro",
+  "eh_secao": false,
+  "rotulo_secao": "",
+  "pre_titulo": "",
+  "titulo": "Sem futuro<br/>sob o<br/><em>capitalismo</em>",
+  "subtitulo": "",
+  "texto": "33% dos jovens brasileiros entre 18 e 29 anos não têm emprego formal nem estão estudando. A juventude negra é a mais atingida: vítima do encarceramento em massa, da violência policial e da ausência de perspectivas.",
+  "imagem_url": "",
+  "palavra_de_ordem": "Emprego, escola e futuro para a juventude!",
+  "items_direita": [
+    {
+      "titulo": "A morte da juventude negra",
+      "texto": "<strong>A morte da juventude negra</strong>Trans têm expectativa de vida de 35 anos no Brasil. A juventude negra é empurrada para o trabalho precário, para o tráfico ou para a morte precoce.",
+      "nota": "",
+      "estilo": ""
+    },
+    {
+      "titulo": "O que a extrema-direita propõe",
+      "texto": "<strong>O que a extrema-direita propõe</strong>Matar e prender mais. Mas o Brasil já tem a polícia que mais mata, em governos da direita ou do PT, e a violência só aumenta. <em>✗ Não é solução, é mais opressão</em>",
+      "nota": "✗ Não é solução, é mais opressão",
+      "estilo": ""
+    },
+    {
+      "titulo": "O que o PSTU propõe",
+      "texto": "<strong>O que o PSTU propõe</strong>Desmilitarização da PM. Descriminalização das drogas para acabar com o mercado ilegal. Auto-organização das comunidades. É nós por nós!",
+      "nota": "",
+      "estilo": ""
+    }
+  ],
+  "tem_linha_acento": false
+}

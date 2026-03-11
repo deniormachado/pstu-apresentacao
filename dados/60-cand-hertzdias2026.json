@@ -1,0 +1,28 @@
+{
+  "tipo": "dividido",
+  "modulo": "Candidaturas 2026",
+  "tema": "escuro",
+  "eh_secao": false,
+  "rotulo_secao": "",
+  "pre_titulo": "",
+  "titulo": "Hertz<br/>Dias<br/><em>2026</em>",
+  "subtitulo": "",
+  "texto": "Não se trata de um projeto eleitoreiro — é uma ferramenta para <strong>fortalecer a construção de uma alternativa socialista e revolucionária</strong>, independente dos patrões, dos bilionários e do imperialismo.<br/><br/>A campanha vai denunciar a podridão do sistema e apresentar um programa da classe trabalhadora. <strong>Independente dos patrões</strong> — contra as alianças de classe como fazem PT e PSOL. Só uma alternativa assim defenderá com legitimidade um programa de ruptura com o capitalismo.",
+  "imagem_url": "",
+  "items_direita": [
+    {
+      "titulo": "Quem é Hertz Dias",
+      "texto": "<strong>Quem é Hertz Dias</strong>Rapper do grupo Gíria Vermelha. Fundador do Movimento Quilombo Urbano, que une hip-hop, cultura e luta contra o racismo, por moradia e por direitos. Professor de História da rede pública — traz a luta da classe trabalhadora para dentro da escola.",
+      "nota": "",
+      "estilo": "border-color:rgba(255,255,255,.4);"
+    },
+    {
+      "titulo": "Programa de ruptura",
+      "texto": "<strong>Programa de ruptura</strong>Sempre ao lado da classe operária: luta unificada com negros, mulheres, LGBTI+, povos originários. Contra todos os imperialismos — pela Segunda Independência da América Latina.",
+      "nota": "",
+      "estilo": "border-color:rgba(255,255,255,.4);"
+    }
+  ],
+  "estilo_direita": "background:var(--red);",
+  "tem_linha_acento": false
+}

@@ -1,0 +1,45 @@
+{
+  "tipo": "dividido",
+  "modulo": "Apresentação · Conjuntura",
+  "tema": "escuro",
+  "eh_secao": false,
+  "rotulo_secao": "",
+  "pre_titulo": "",
+  "titulo": "Nossa<br/>posição no<br/><em>mundo</em>",
+  "subtitulo": "",
+  "texto": "A luta dos trabalhadores não tem fronteiras. O PSTU, como seção brasileira da LIT-QI, coordena sua posição com organizações em dezenas de países.",
+  "imagem_url": "",
+  "items_direita": [
+    {
+      "titulo": "Palestina",
+      "texto": "<strong>Palestina</strong>Solidariedade com o povo palestino. Por uma Palestina laica e democrática, do rio ao mar. Contra o Estado de Israel e o imperialismo dos EUA. <em>▶ Campanha BDS</em>",
+      "nota": "▶ Campanha BDS",
+      "estilo": ""
+    },
+    {
+      "titulo": "Ucrânia",
+      "texto": "<strong>Ucrânia</strong>Contra a invasão imperialista russa. Apoio ao povo ucraniano que resiste. Mas: contra a subordinação à OTAN. <em>✗ Diferente de quem apoia Rússia \"anti-OTAN\"</em>",
+      "nota": "✗ Diferente de quem apoia Rússia \"anti-OTAN\"",
+      "estilo": ""
+    },
+    {
+      "titulo": "Venezuela",
+      "texto": "<strong>Venezuela</strong>Contra a invasão dos EUA e o sequestro de Maduro. Sem endossar o governo Maduro, que reprimiu trabalhadores. <em>✗ Diferente de quem defende o chavismo cegamente</em>",
+      "nota": "✗ Diferente de quem defende o chavismo cegamente",
+      "estilo": ""
+    },
+    {
+      "titulo": "Irã",
+      "texto": "<strong>Irã</strong>Fora Trump e Israel do Irã e do Líbano. Pelo direito do Irã à autodefesa. Contra o imperialismo dos EUA e de Israel — mas sem apoio ao regime teocrático iraniano, que reprime mulheres e trabalhadores.",
+      "nota": "",
+      "estilo": ""
+    },
+    {
+      "titulo": "Argentina / Milei",
+      "texto": "<strong>Argentina / Milei</strong>Solidariedade com os trabalhadores argentinos. Milei é o laboratório do que a ultradireita quer fazer no Brasil.",
+      "nota": "",
+      "estilo": ""
+    }
+  ],
+  "tem_linha_acento": false
+}

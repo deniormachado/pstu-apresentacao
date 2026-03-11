@@ -1,0 +1,39 @@
+{
+  "tipo": "estatisticas",
+  "modulo": "Módulo 2 · Por que Classistas?",
+  "tema": "escuro",
+  "eh_secao": false,
+  "rotulo_secao": "",
+  "pre_titulo": "",
+  "titulo": "",
+  "subtitulo": "",
+  "texto": "",
+  "imagem_url": "",
+  "estatisticas": [
+    {
+      "numero": "54mi",
+      "descricao": "de brasileiros em insegurança alimentar — passando fome ou ameaçados dela",
+      "fonte": "Rede PENSSAN, 2023",
+      "cor": ""
+    },
+    {
+      "numero": "8,7%",
+      "descricao": "de desemprego (PNAD) — mas 39 milhões na informalidade sem direitos trabalhistas",
+      "fonte": "IBGE T3/2024",
+      "cor": ""
+    },
+    {
+      "numero": "R$1.412",
+      "descricao": "é o salário mínimo (2024) — insuficiente para uma família. DIEESE: mínimo real = R$7.213",
+      "fonte": "",
+      "cor": ""
+    },
+    {
+      "numero": "4×",
+      "descricao": "é a diferença de renda entre o 1% mais rico e o trabalhador mediano no Brasil",
+      "fonte": "IPEA, 2024",
+      "cor": ""
+    }
+  ],
+  "tem_linha_acento": false
+}
