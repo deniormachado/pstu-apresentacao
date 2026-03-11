@@ -125,6 +125,14 @@ function renderDividido(d) {
 }
 
 /** Template: COMPARATIVO (duas colunas) */
+/** Gera um banner de pre_titulo no topo do slide (se existir) */
+function preTituloBanner(d) {
+  if (!d.pre_titulo) return '';
+  return `<div style="position:absolute;top:12px;left:0;right:0;z-index:3;display:flex;justify-content:center;">
+    <div class="sec-mod-label" style="font-size:clamp(.7rem,1.2vw,.85rem);padding:5px 16px;">${d.pre_titulo}</div>
+  </div>`;
+}
+
 function renderComparativo(d) {
   function col(data) {
     if (!data) return '';
@@ -134,7 +142,7 @@ function renderComparativo(d) {
     }).join('');
     return `<div class="cmp-col"><div class="cmp-title">${data.titulo}</div>${items}</div>`;
   }
-  return `<div class="compare-wrap">${col(d.coluna_esquerda)}${col(d.coluna_direita)}</div>`;
+  return `${preTituloBanner(d)}<div class="compare-wrap">${col(d.coluna_esquerda)}${col(d.coluna_direita)}</div>`;
 }
 
 /** Template: ESTATÍSTICAS (grid 2×2) */
@@ -150,7 +158,7 @@ function renderEstatisticas(d) {
       ${s.fonte ? `<div class="stat-src">${s.fonte}</div>` : ''}
     </div>`;
   }).join('');
-  return `<div class="stats-wrap">${cells}</div>`;
+  return `${preTituloBanner(d)}<div class="stats-wrap">${cells}</div>`;
 }
 
 /** Template: CITAÇÃO */
@@ -227,7 +235,7 @@ function renderCards(d) {
       </div>
     </div>`;
   }).join('');
-  return `<div class="cards-wrap">${cards}</div>`;
+  return `${preTituloBanner(d)}<div class="cards-wrap">${cards}</div>`;
 }
 
 /** Seleciona o template correto baseado no campo "tipo" do JSON */
